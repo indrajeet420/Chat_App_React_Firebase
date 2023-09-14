@@ -23,8 +23,7 @@ function SignIn() {
           fontSize: "20px",
           borderRadius: "0",
           fontWeight: "600",
-          background:'cyan',
-          
+          background: "cyan",
         }}
         onClick={signInWithGoogle}
       >
